@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            color: #666;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Our Services</h1>
+    </header>
+
+    <section>
+        <h2>Web Development</h2>
+        <p>We offer a range of web development services to meet your business needs. Our team of experienced developers can create responsive and user-friendly websites tailored to your specifications.</p>
+    </section>
+
+    <section>
+        <h2>Graphic Design</h2>
+        <p>Make a lasting impression with our graphic design services. Whether you need a new logo, marketing materials, or a complete brand overhaul, our creative team can bring your vision to life.</p>
+    </section>
+
+    <section>
+        <h2>Digital Marketing</h2>
+        <p>Boost your online presence with our digital marketing expertise. From social media management to search engine optimization, we can help you reach your target audience and drive results.</p>
+    </section>
+
+    <section>
+        <h2>Consulting</h2>
+        <p>Our experienced consultants can provide valuable insights and strategies to help your business thrive. Whether you need guidance on technology, marketing, or overall business strategy, we're here to help.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Company. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
